@@ -3,127 +3,82 @@
 
 # eaebe
 
-### Full-Stack Developer • Bot Developer • API Engineer
+**Full-Stack Developer**
 
-Building modern websites, powerful Discord bots and scalable APIs.
+Building bots, websites and APIs with a focus on clean code and useful solutions.
 
-<a href="https://github.com/eaebe">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
+
 <a href="https://github.com/eaebe?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_my_projects-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=eaebe&style=for-the-badge&color=5865F2&label=PROFILE+VIEWS" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=eaebe&style=flat-square&color=4776E6&label=VISITORS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-I'm a developer focused on building modern digital solutions, from
-feature-rich Discord bots to responsive websites and robust APIs.
+I enjoy building software that solves real problems.
 
-I enjoy turning ideas into real products, writing clean and maintainable
-code, and building systems designed to grow.
+My work revolves around Discord bots, modern web applications and backend
+systems. I like turning ideas into functional projects, organizing code
+into clear modules and learning better ways to build things.
 
-- 🤖 **Discord Bots** — Custom commands, automation, moderation and advanced systems.
-- 🌐 **Web Development** — Modern interfaces, responsive websites and full-stack applications.
-- ⚡ **API Development** — REST APIs, integrations, authentication and backend architecture.
-- 🧩 **System Architecture** — Modular, scalable and maintainable projects.
-- 🚀 **Always Improving** — Exploring modern tools, technologies and development practices.
+- Developing bots and custom systems for Discord.
+- Building websites and web applications.
+- Creating APIs and connecting services.
+- Improving projects through iteration and experimentation.
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
+### Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,java" />
-</div>
-
-### ⚙️ Backend & APIs
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,prisma,postgres,mongodb,redis" />
-</div>
-
-### 🌐 Frontend
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,sass" />
-</div>
-
-### 🤖 Bots & Integrations
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=discordjs,nodejs,ts,js" />
-</div>
-
-### 🗄️ Databases & Infrastructure
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,linux" />
-</div>
-
-### 🔧 Tools & Workflow
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,bun" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,nextjs,react,express,postgres,git&perline=5" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=eaebe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaebe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=eaebe&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 What I Build
+### Areas of focus
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🤖 Discord Bots</h3>
-      Advanced bots, custom commands, automation, server management and interactive systems.
+    <td width="33%" valign="top">
+      **01 / Bots**
+
+      Discord integrations, commands, automation and custom features.
     </td>
-    <td width="50%">
-      <h3>🌐 Websites & Applications</h3>
-      Modern interfaces, responsive websites, dashboards and full-stack applications.
+    <td width="33%" valign="top">
+      **02 / Web**
+
+      Responsive interfaces and modern web applications.
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>⚡ APIs & Backends</h3>
-      REST APIs, database integrations, authentication and reliable backend services.
-    </td>
-    <td width="50%">
-      <h3>🧩 Developer Tools</h3>
-      Reusable libraries, integrations, utilities and modular software architecture.
+    <td width="33%" valign="top">
+      **03 / Backend**
+
+      APIs, application logic and database integration.
     </td>
   </tr>
 </table>
 
 ---
 
+### Activity
+
+<div align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=eaebe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6EA8FE&text_color=C9D1D9&icon_color=6EA8FE&hide=contribs" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaebe&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EA8FE&text_color=C9D1D9" />
+</div>
+
+---
+
 <div align="center">
 
-### Turning ideas into code.
-
-**Thanks for visiting my profile!**
-
-<img src="https://img.shields.io/badge/TypeScript-Developer-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Building-Everyday-5865F2?style=flat-square" />
+*Small details. Solid systems. Continuous progress.*
 
 </div>
