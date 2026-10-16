@@ -1,21 +1,25 @@
 
 <div align="center">
 
-# eaebe
+# Davi
 
 **Full-Stack Developer**
 
-Building bots, websites and APIs with a focus on clean code and useful solutions.
+Discord Bots · Web Applications · APIs
+
+<br/>
+
+Building digital products with TypeScript, JavaScript and modern web technologies.
 
 <br/>
 
 <a href="https://github.com/eaebe?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_my_projects-161B22?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=eaebe&style=flat-square&color=4776E6&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=eaebe&style=flat-square&color=6488EA&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -23,62 +27,77 @@ Building bots, websites and APIs with a focus on clean code and useful solutions
 
 ### About
 
-I enjoy building software that solves real problems.
+I'm Davi, a developer interested in building reliable software, from
+Discord bots and automation systems to websites and backend APIs.
 
-My work revolves around Discord bots, modern web applications and backend
-systems. I like turning ideas into functional projects, organizing code
-into clear modules and learning better ways to build things.
+I enjoy exploring new ideas, improving existing projects and writing
+code that is organized, practical and easy to maintain.
 
-- Developing bots and custom systems for Discord.
-- Building websites and web applications.
-- Creating APIs and connecting services.
-- Improving projects through iteration and experimentation.
+My focus is on creating useful things, understanding how they work
+and continuously improving the way I build them.
 
 ---
 
-### Technologies
+### Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nodejs,nextjs,react,express,postgres,git&perline=5" />
+<div align="center">
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" />
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+<br/><br/>
+
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
 </div>
 
 ---
 
-### Areas of focus
+### Selected Work
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      **01 / Bots**
+**Discord Development**
 
-      Discord integrations, commands, automation and custom features.
-    </td>
-    <td width="33%" valign="top">
-      **02 / Web**
+Custom bots, server systems, integrations and automation built around the Discord ecosystem.
 
-      Responsive interfaces and modern web applications.
-    </td>
-    <td width="33%" valign="top">
-      **03 / Backend**
+**Web Development**
 
-      APIs, application logic and database integration.
-    </td>
-  </tr>
-</table>
+Modern websites and applications with responsive interfaces and maintainable code.
+
+**Backend & APIs**
+
+Server-side applications, REST APIs and database-driven systems.
 
 ---
 
-### Activity
+### GitHub Overview
 
 <div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=eaebe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6EA8FE&text_color=C9D1D9&icon_color=6EA8FE&hide=contribs" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaebe&layout=compact&hide_border=true&bg_color=0D1117&title_color=6EA8FE&text_color=C9D1D9" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=eaebe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6488EA&text_color=C9D1D9&icon_color=6488EA&hide=contribs" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaebe&layout=compact&hide_border=true&bg_color=0D1117&title_color=6488EA&text_color=C9D1D9&langs_count=5" />
+
 </div>
 
 ---
 
 <div align="center">
 
-*Small details. Solid systems. Continuous progress.*
+**Building with purpose. Improving with every project.**
 
 </div>
